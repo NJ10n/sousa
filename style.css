@@ -81,5 +81,10 @@ body{
     font-size: 25px;
 }
 
+.imagemLogo{
+    max-width: 100%;
+}
 
-
+.logo{
+    max-width: 500px;
+}
